@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "anchor-js": "^4.2.2",
-    "bootstrap": "^3.4.1",
+    "bootstrap": "^4.0.0",
     "bootstrap.native": "^2.0.27",
     "codemirror": "^6.0.0",
     "docsearch.js": "^2.6.3",
